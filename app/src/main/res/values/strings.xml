@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">poids</string>
+    <string name="taille">taille</string>
+    <string name="poids">poids</string>
+</resources>
